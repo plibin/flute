@@ -1,6 +1,6 @@
 # flute
 
-To build FluTE, use CMake:
+To build FluTE, use CMake: <br>
 mkdir build
 cd build
 cmake ../
